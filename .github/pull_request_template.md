@@ -13,7 +13,4 @@
 ### 👥 Criterios para el Revisor (Code Review)
 - [ ] La lógica implementada resuelve el requerimiento del módulo.
 - [ ] La estructura del código es limpia y sin dependencias innecesarias.
-- [ ] Se resolvieron todas las conversaciones y observaciones en este PR.### 📋 Descripción del Cambio
-<!-- Explica qué resuelve este PR y el módulo hospitalario afectado -->
-- **Módulo:** Ausentismo / Cobertura / Camas / Ocupación / Autenticación
-- **Tipo de cambio:** [ ] Feature  [ ] Bugfix  [ ] Hotfix  [ ] Refactoir
+- [ ] Se resolvieron todas las conversaciones y observaciones en este PR.
